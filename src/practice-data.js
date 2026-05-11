@@ -1,4 +1,4 @@
-/* PRACTICE — past papers + invented questions with full source texts and model essays */
+/* PRACTICE — past papers + Original Material questions with full source texts and model essays */
 
 export const PRACTICE = [
 
@@ -227,13 +227,13 @@ export const PRACTICE = [
   ,
 
   /* ============================================================
-     SECTION 2: PAPER 3 — 2021 PAPER + INVENTED
+     SECTION 2: PAPER 3 — 2021 PAPER + Original Material
      ============================================================ */
   {
     id: "p3-practice",
     paper: "Paper 3",
-    title: "More Paper 3 Practice (2021 + Invented)",
-    desc: "The 2021 past paper plus an invented practice question, both with full source texts and complete model essays following the same seven-paragraph structure.",
+    title: "More Paper 3 Practice (2021 + Original Material)",
+    desc: "The 2021 past paper plus an Original Material practice question, both with full source texts and complete model essays following the same seven-paragraph structure.",
     questions: [
 
       /* === 2021 Nov 32 — Pauper Children === */
@@ -520,24 +520,24 @@ export const PRACTICE = [
   },
 
   /* ============================================================
-     SECTION 4: PAPER 4 — INVENTED
+     SECTION 4: PAPER 4 — Original Material
      ============================================================ */
   {
     id: "p4-practice",
     paper: "Paper 4",
-    title: "Invented Paper 4 Practice",
+    title: "Original Material Paper 4 Practice",
     desc: "Two original practice questions with stimulus texts written for revision purposes and complete model essays.",
     questions: [
 
-      /* === Invented Paper 4 Section A: Singlish === */
+      /* === Original Material Paper 4 Section A: Singlish === */
       {
-        title: "Section A — Singlish: a national language? (Invented)",
-        session: "Invented practice · Section A",
+        title: "Section A — Singlish: a national language? (Original Material)",
+        session: "Original Material practice · Section A",
         marks: 25,
         prompt: "Discuss what you feel are the most important issues raised in the text relating to <strong>the changing use of English in the world</strong>. You should refer to specific details from the text as well as to ideas and examples from your wider study of English in the world.",
         sources: [
           {
-            label: "Stimulus — 'Singlish is here to stay' (invented op-ed)",
+            label: "Stimulus — 'Singlish is here to stay' (Original Material op-ed)",
             text: `<p style="text-align:center;"><strong>Singlish is here to stay — and the government should accept it</strong></p>
 <p>I went home for Chinese New Year last week and my mother greeted me at the door with the words: "Eh, you so long never come back, your face also different already lah." I had not heard Singlish in three months. Sitting in my London office, I had spent every working day in carefully calibrated 'Singapore Standard English' — the kind of English that the 'Speak Good English Movement' has been pushing on us since the year 2000.</p>
 <p>The campaign's premise has always been the same: Singlish is broken English, a national embarrassment, an obstacle to global competitiveness. Behind the campaign is the belief that there is a single legitimate English — the English of London and Boston — and Singapore must measure itself against that standard.</p>
@@ -592,15 +592,15 @@ export const PRACTICE = [
 <p>Kachru (with critique), Schneider, Widdowson, Phillipson, Jenkins/Seidlhofer, McCrum, Crystal.</p>`
       },
 
-      /* === Invented Paper 4 Section B: Code-Switching === */
+      /* === Original Material Paper 4 Section B: Code-Switching === */
       {
-        title: "Section B — Code-switching and identity (Invented)",
-        session: "Invented practice · Section B",
+        title: "Section B — Code-switching and identity (Original Material)",
+        session: "Original Material practice · Section B",
         marks: 25,
         prompt: "Discuss what you feel are the most important issues raised in the text relating to <strong>the ways in which language can shape and reflect personal and social identity</strong>. You should refer to specific details from the text as well as to ideas and examples from your wider study of Language and the self.",
         sources: [
           {
-            label: "Stimulus — 'Which me are you talking to?' (invented essay)",
+            label: "Stimulus — 'Which me are you talking to?' (Original Material essay)",
             text: `<p style="text-align:center;"><strong>Which me are you talking to?</strong></p>
 <p>I have spent the last twenty minutes deciding whether to take the phone call. My mother is calling from Lagos. I am at my desk in a London law firm, and if I answer in Yoruba — as she will certainly expect me to — I will become, instantly, a different person from the one my colleagues have been working with for the past three years.</p>
 <p>I take the call in the corridor.</p>
