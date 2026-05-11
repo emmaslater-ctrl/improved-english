@@ -112,11 +112,6 @@ export const GLOSSARY = [
     example: "A child saying 'me want it' is in stage 2; saying 'I want it' has reached stage 3."
   },
   {
-    term: "Michael Tomasello",
-    category: "theorist-cla",
-    definition: "Tomasello's <strong>usage-based theory</strong> rejects Chomsky's LAD. He argues children learn language through pattern-finding from concrete usage they hear in real social interactions. No innate grammar is needed — just powerful general cognitive abilities applied to social input."
-  },
-  {
     term: "Roger Brown",
     category: "theorist-cla",
     definition: "Established the standard <strong>five-stage model</strong> of grammatical development: pre-linguistic, holophrastic (one-word), two-word, telegraphic, post-telegraphic. Brown's stages are sometimes referenced by approximate Mean Length of Utterance (MLU)."
@@ -148,11 +143,6 @@ export const GLOSSARY = [
     term: "Edgar Schneider",
     category: "theorist-eiw",
     definition: "Schneider's <strong>Dynamic Model</strong> traces how postcolonial Englishes develop through five phases: (1) Foundation, (2) Exonormative stabilisation, (3) Nativisation, (4) Endonormative stabilisation, (5) Differentiation. The model captures how a variety moves from external (Inner-Circle) to internal (local) norms."
-  },
-  {
-    term: "Jennifer Jenkins / Barbara Seidlhofer",
-    category: "theorist-eiw",
-    definition: "Champions of <strong>English as a Lingua Franca (ELF)</strong>. They argue that English used between non-native speakers should be analysed as a legitimate variety with its own emerging norms, not measured against native-speaker standards. Jenkins has identified a <strong>Lingua Franca Core</strong> of features essential for international intelligibility."
   },
   {
     term: "David Crystal (Global English)",
@@ -241,11 +231,6 @@ export const GLOSSARY = [
     definition: "Trudgill's Norwich studies introduced <strong>overt prestige</strong> (the value of standard mainstream forms) and <strong>covert prestige</strong> (the value of non-standard forms within a community — masculinity, toughness, in-group loyalty). Women in his studies used standard forms more; men over-reported non-standard usage."
   },
   {
-    term: "Jenny Cheshire",
-    category: "theorist-las",
-    definition: "Cheshire's Reading study of adolescents found non-standard grammatical variants (multiple negation, <em>ain't</em>) correlated with peer-group identity and adherence to 'vernacular culture' values."
-  },
-  {
     term: "Penelope Eckert",
     category: "theorist-las",
     definition: "Eckert's Detroit study of <strong>Jocks and Burnouts</strong> introduced the concept of <strong>communities of practice</strong> to sociolinguistics. Linguistic features emerge as markers of belonging to particular CoPs, showing identity is actively constructed through linguistic choice."
@@ -264,11 +249,6 @@ export const GLOSSARY = [
     term: "Deborah Cameron",
     category: "theorist-las",
     definition: "Cameron's <em>The Myth of Mars and Venus</em> (2007) systematically critiques claims about gendered language differences. She argues most claimed differences are myth — small, contextual, and outweighed by within-gender variation. Modern accounts emphasise context and performance over essence."
-  },
-  {
-    term: "Nikolas Coupland",
-    category: "theorist-las",
-    definition: "Coupland's work on <strong>style-shifting</strong> argues that speakers actively project different identities through linguistic choices in different contexts — identity is performed, not fixed. Compatible with Eckert's CoP framework and Butler's performativity."
   },
 
   /* ============ KEY LINGUISTIC TERMS ============ */
